@@ -21,5 +21,6 @@ public class ClientTest {
 		t.commit();
 		session.close();
 		System.out.println("successfully table created");
+		System.out.println("Hibernate Application");
 	}
 }
